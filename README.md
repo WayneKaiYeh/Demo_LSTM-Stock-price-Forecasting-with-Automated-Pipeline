@@ -15,6 +15,7 @@ It includes Monte Carlo simulations to estimate price uncertainty and a fully au
 - PCA-based dimensionality reduction (95% explained variance)
 - Technical indicators (RSI, momentum, volatility, etc.)
 - Monte Carlo simulation for probabilistic forecasting
+- Customised interactive modifiction through VS Code and Render.
 - Automated daily pipeline (GitHub Actions)
 - Interactive dashboard (Panel on Render)
 

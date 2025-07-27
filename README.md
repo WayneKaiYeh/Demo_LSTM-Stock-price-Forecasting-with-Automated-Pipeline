@@ -52,9 +52,9 @@ It includes Monte Carlo simulations to estimate price uncertainty and a fully au
 
 For collaboration or access to the full codebase, please contact:
 
-**[Your Name]**  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+**Kai Yeh**  
+Email: KaiYeh820206@gmail.com  
+GitHub: [WayneKaiYeh](https://github.com/yourusername)
 
 ---
 

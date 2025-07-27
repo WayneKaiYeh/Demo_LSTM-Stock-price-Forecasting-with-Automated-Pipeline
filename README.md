@@ -28,10 +28,10 @@ It includes Monte Carlo simulations to estimate price uncertainty and a fully au
 
 ## 📊 Demo Outputs
 
-### 🔹 1. Predicted vs Actual Prices (Day 1~5)
+### 🔹 1. Monte Carlo Price Simulation Mode vs Mean(Day 1~10)
 ![Prediction vs Actual](demo/prediction_vs_actual.png)
 
-### 🔹 2. Monte Carlo Price Distribution (Day 1)
+### 🔹 2. Monte Carlo Price Distribution (Day 1 - 5)
 ![Monte Carlo Simulation](demo/montecarlo_day1.png)
 
 ### 🔹 3. Deployed Dashboard Screenshot
